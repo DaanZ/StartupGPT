@@ -1,0 +1,8 @@
+langchain
+streamlit
+openai
+langchain_community
+langchain_openai
+rootpath
+pypdf
+faiss-cpu
